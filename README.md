@@ -1,5 +1,5 @@
 # git
 
-"""bash
+"""
 git init
 """
